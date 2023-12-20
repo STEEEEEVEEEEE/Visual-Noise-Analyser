@@ -1,0 +1,1 @@
+Just open the code, copy and paste the path to an mp4 file on your computer into line 6, "video file =" and run the code
